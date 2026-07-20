@@ -1,0 +1,6 @@
+{
+  "name": "Agendamento de Barbearia",
+  "description": "Aplicativo móvel responsivo para agendamento de barbearia e salão com controle de barbeiros, serviços e automação de lembretes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
