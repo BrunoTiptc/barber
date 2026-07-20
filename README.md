@@ -37,7 +37,7 @@ O banco de dados foi modelado de forma simples e escalável utilizando estrutura
 
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd nome-do-repositorio
+   cd /src
    ```
 
 3. **Instale as dependências:**
